@@ -1,0 +1,15 @@
+
+body {
+    justify-content: center;
+    align-items: center;
+    background: black;
+    background-image: url('https://media.istockphoto.com/id/944880340/photo/chaotic-black-low-poly-surface-abstract-3d-render.jpg?b=1&s=170667a&w=0&k=20&c=_zTTb5QQqP9yjC1WYh1pzolYb70MEE11rVm23rxBDgo=');
+}
+
+.simple {
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    color:white;
+
+}
